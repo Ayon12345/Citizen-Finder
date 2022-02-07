@@ -1,0 +1,60 @@
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.catagory.resources
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.studentform.resources
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.profilesetting.resources
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu_UI_v1.52.dll
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tulpep.NotificationWindow.dll
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.calander.resources
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.emailsend.resources
+F:\C Sharp Project\my project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showacc.resources
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.calander.resources
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.emailsend.resources
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.catagory.resources
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.studentform.resources
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.profilesetting.resources
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showacc.resources
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\AYON\Desktop\Citizen Finder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

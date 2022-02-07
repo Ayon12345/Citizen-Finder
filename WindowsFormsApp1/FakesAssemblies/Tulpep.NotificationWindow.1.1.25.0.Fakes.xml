@@ -1,0 +1,608 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Tulpep.NotificationWindow.1.1.25.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier">
+            <summary>Shim type of Tulpep.NotificationWindow.PopupNotifier</summary>
+        </member>
+        <member name="M:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.#ctor(Tulpep.NotificationWindow.PopupNotifier)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.AnimationDurationGet">
+            <summary>Sets the shim of PopupNotifier.get_AnimationDuration()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.AnimationDurationSetInt32">
+            <summary>Sets the shim of PopupNotifier.set_AnimationDuration(Int32 value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.AnimationIntervalGet">
+            <summary>Sets the shim of PopupNotifier.get_AnimationInterval()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.AnimationIntervalSetInt32">
+            <summary>Sets the shim of PopupNotifier.set_AnimationInterval(Int32 value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.AppearAddEventHandler">
+            <summary>Sets the shim of PopupNotifier.add_Appear(EventHandler value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.AppearRemoveEventHandler">
+            <summary>Sets the shim of PopupNotifier.remove_Appear(EventHandler value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.BodyColorGet">
+            <summary>Sets the shim of PopupNotifier.get_BodyColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.BodyColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_BodyColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.BorderColorGet">
+            <summary>Sets the shim of PopupNotifier.get_BorderColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.BorderColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_BorderColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ButtonBorderColorGet">
+            <summary>Sets the shim of PopupNotifier.get_ButtonBorderColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ButtonBorderColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_ButtonBorderColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ButtonHoverColorGet">
+            <summary>Sets the shim of PopupNotifier.get_ButtonHoverColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ButtonHoverColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_ButtonHoverColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ClickAddEventHandler">
+            <summary>Sets the shim of PopupNotifier.add_Click(EventHandler value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ClickRemoveEventHandler">
+            <summary>Sets the shim of PopupNotifier.remove_Click(EventHandler value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.CloseAddEventHandler">
+            <summary>Sets the shim of PopupNotifier.add_Close(EventHandler value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.CloseRemoveEventHandler">
+            <summary>Sets the shim of PopupNotifier.remove_Close(EventHandler value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ContentColorGet">
+            <summary>Sets the shim of PopupNotifier.get_ContentColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ContentColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_ContentColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ContentFontGet">
+            <summary>Sets the shim of PopupNotifier.get_ContentFont()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ContentFontSetFont">
+            <summary>Sets the shim of PopupNotifier.set_ContentFont(Font value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ContentHoverColorGet">
+            <summary>Sets the shim of PopupNotifier.get_ContentHoverColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ContentHoverColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_ContentHoverColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ContentPaddingGet">
+            <summary>Sets the shim of PopupNotifier.get_ContentPadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ContentPaddingSetPadding">
+            <summary>Sets the shim of PopupNotifier.set_ContentPadding(Padding value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ContentTextGet">
+            <summary>Sets the shim of PopupNotifier.get_ContentText()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ContentTextSetString">
+            <summary>Sets the shim of PopupNotifier.set_ContentText(String value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.DelayGet">
+            <summary>Sets the shim of PopupNotifier.get_Delay()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.DelaySetInt32">
+            <summary>Sets the shim of PopupNotifier.set_Delay(Int32 value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.DisappearAddEventHandler">
+            <summary>Sets the shim of PopupNotifier.add_Disappear(EventHandler value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.DisappearRemoveEventHandler">
+            <summary>Sets the shim of PopupNotifier.remove_Disappear(EventHandler value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.DisposeBoolean">
+            <summary>Sets the shim of PopupNotifier.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.GradientPowerGet">
+            <summary>Sets the shim of PopupNotifier.get_GradientPower()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.GradientPowerSetInt32">
+            <summary>Sets the shim of PopupNotifier.set_GradientPower(Int32 value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.HeaderColorGet">
+            <summary>Sets the shim of PopupNotifier.get_HeaderColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.HeaderColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_HeaderColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.HeaderHeightGet">
+            <summary>Sets the shim of PopupNotifier.get_HeaderHeight()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.HeaderHeightSetInt32">
+            <summary>Sets the shim of PopupNotifier.set_HeaderHeight(Int32 value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.Hide">
+            <summary>Sets the shim of PopupNotifier.Hide()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ImageGet">
+            <summary>Sets the shim of PopupNotifier.get_Image()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ImagePaddingGet">
+            <summary>Sets the shim of PopupNotifier.get_ImagePadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ImagePaddingSetPadding">
+            <summary>Sets the shim of PopupNotifier.set_ImagePadding(Padding value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ImageSetImage">
+            <summary>Sets the shim of PopupNotifier.set_Image(Image value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ImageSizeGet">
+            <summary>Sets the shim of PopupNotifier.get_ImageSize()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ImageSizeSetSize">
+            <summary>Sets the shim of PopupNotifier.set_ImageSize(Size value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.IsRightToLeftGet">
+            <summary>Sets the shim of PopupNotifier.get_IsRightToLeft()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.IsRightToLeftSetBoolean">
+            <summary>Sets the shim of PopupNotifier.set_IsRightToLeft(Boolean value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.OptionsMenuGet">
+            <summary>Sets the shim of PopupNotifier.get_OptionsMenu()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.OptionsMenuSetContextMenuStrip">
+            <summary>Sets the shim of PopupNotifier.set_OptionsMenu(ContextMenuStrip value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.Popup">
+            <summary>Sets the shim of PopupNotifier.Popup()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ResetContentPadding">
+            <summary>Sets the shim of PopupNotifier.ResetContentPadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ResetImagePadding">
+            <summary>Sets the shim of PopupNotifier.ResetImagePadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ResetImageSize">
+            <summary>Sets the shim of PopupNotifier.ResetImageSize()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ResetTitlePadding">
+            <summary>Sets the shim of PopupNotifier.ResetTitlePadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ScrollGet">
+            <summary>Sets the shim of PopupNotifier.get_Scroll()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ScrollSetBoolean">
+            <summary>Sets the shim of PopupNotifier.set_Scroll(Boolean value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ShouldSerializeContentPadding">
+            <summary>Sets the shim of PopupNotifier.ShouldSerializeContentPadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ShouldSerializeImagePadding">
+            <summary>Sets the shim of PopupNotifier.ShouldSerializeImagePadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ShouldSerializeImageSize">
+            <summary>Sets the shim of PopupNotifier.ShouldSerializeImageSize()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ShouldSerializeTitlePadding">
+            <summary>Sets the shim of PopupNotifier.ShouldSerializeTitlePadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ShowCloseButtonGet">
+            <summary>Sets the shim of PopupNotifier.get_ShowCloseButton()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ShowCloseButtonSetBoolean">
+            <summary>Sets the shim of PopupNotifier.set_ShowCloseButton(Boolean value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ShowGripGet">
+            <summary>Sets the shim of PopupNotifier.get_ShowGrip()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ShowGripSetBoolean">
+            <summary>Sets the shim of PopupNotifier.set_ShowGrip(Boolean value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ShowOptionsButtonGet">
+            <summary>Sets the shim of PopupNotifier.get_ShowOptionsButton()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.ShowOptionsButtonSetBoolean">
+            <summary>Sets the shim of PopupNotifier.set_ShowOptionsButton(Boolean value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.SizeGet">
+            <summary>Sets the shim of PopupNotifier.get_Size()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.SizeSetSize">
+            <summary>Sets the shim of PopupNotifier.set_Size(Size value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.TitleColorGet">
+            <summary>Sets the shim of PopupNotifier.get_TitleColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.TitleColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_TitleColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.TitleFontGet">
+            <summary>Sets the shim of PopupNotifier.get_TitleFont()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.TitleFontSetFont">
+            <summary>Sets the shim of PopupNotifier.set_TitleFont(Font value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.TitlePaddingGet">
+            <summary>Sets the shim of PopupNotifier.get_TitlePadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.TitlePaddingSetPadding">
+            <summary>Sets the shim of PopupNotifier.set_TitlePadding(Padding value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.TitleTextGet">
+            <summary>Sets the shim of PopupNotifier.get_TitleText()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.TitleTextSetString">
+            <summary>Sets the shim of PopupNotifier.set_TitleText(String value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.frmPopup_CloseClickObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.frmPopup_CloseClick(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.frmPopup_ContextMenuClosedObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.frmPopup_ContextMenuClosed(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.frmPopup_ContextMenuOpenedObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.frmPopup_ContextMenuOpened(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.frmPopup_LinkClickObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.frmPopup_LinkClick(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.frmPopup_MouseEnterObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.frmPopup_MouseEnter(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.frmPopup_MouseLeaveObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.frmPopup_MouseLeave(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.frmPopup_VisibleChangedObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.frmPopup_VisibleChanged(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.tmAnimation_TickObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.tmAnimation_Tick(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AllInstances.tmWait_TickObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.tmWait_Tick(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AnimationDurationGet">
+            <summary>Sets the shim of PopupNotifier.get_AnimationDuration()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AnimationDurationSetInt32">
+            <summary>Sets the shim of PopupNotifier.set_AnimationDuration(Int32 value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AnimationIntervalGet">
+            <summary>Sets the shim of PopupNotifier.get_AnimationInterval()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AnimationIntervalSetInt32">
+            <summary>Sets the shim of PopupNotifier.set_AnimationInterval(Int32 value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AppearAddEventHandler">
+            <summary>Sets the shim of PopupNotifier.add_Appear(EventHandler value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.AppearRemoveEventHandler">
+            <summary>Sets the shim of PopupNotifier.remove_Appear(EventHandler value)</summary>
+        </member>
+        <member name="M:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.Bind(System.ComponentModel.IComponent)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="M:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.BodyColorGet">
+            <summary>Sets the shim of PopupNotifier.get_BodyColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.BodyColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_BodyColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.BorderColorGet">
+            <summary>Sets the shim of PopupNotifier.get_BorderColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.BorderColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_BorderColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ButtonBorderColorGet">
+            <summary>Sets the shim of PopupNotifier.get_ButtonBorderColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ButtonBorderColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_ButtonBorderColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ButtonHoverColorGet">
+            <summary>Sets the shim of PopupNotifier.get_ButtonHoverColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ButtonHoverColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_ButtonHoverColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ClickAddEventHandler">
+            <summary>Sets the shim of PopupNotifier.add_Click(EventHandler value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ClickRemoveEventHandler">
+            <summary>Sets the shim of PopupNotifier.remove_Click(EventHandler value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.CloseAddEventHandler">
+            <summary>Sets the shim of PopupNotifier.add_Close(EventHandler value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.CloseRemoveEventHandler">
+            <summary>Sets the shim of PopupNotifier.remove_Close(EventHandler value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.Constructor">
+            <summary>Sets the shim of PopupNotifier.PopupNotifier()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ContentColorGet">
+            <summary>Sets the shim of PopupNotifier.get_ContentColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ContentColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_ContentColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ContentFontGet">
+            <summary>Sets the shim of PopupNotifier.get_ContentFont()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ContentFontSetFont">
+            <summary>Sets the shim of PopupNotifier.set_ContentFont(Font value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ContentHoverColorGet">
+            <summary>Sets the shim of PopupNotifier.get_ContentHoverColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ContentHoverColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_ContentHoverColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ContentPaddingGet">
+            <summary>Sets the shim of PopupNotifier.get_ContentPadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ContentPaddingSetPadding">
+            <summary>Sets the shim of PopupNotifier.set_ContentPadding(Padding value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ContentTextGet">
+            <summary>Sets the shim of PopupNotifier.get_ContentText()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ContentTextSetString">
+            <summary>Sets the shim of PopupNotifier.set_ContentText(String value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.DelayGet">
+            <summary>Sets the shim of PopupNotifier.get_Delay()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.DelaySetInt32">
+            <summary>Sets the shim of PopupNotifier.set_Delay(Int32 value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.DisappearAddEventHandler">
+            <summary>Sets the shim of PopupNotifier.add_Disappear(EventHandler value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.DisappearRemoveEventHandler">
+            <summary>Sets the shim of PopupNotifier.remove_Disappear(EventHandler value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.DisposeBoolean">
+            <summary>Sets the shim of PopupNotifier.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.GradientPowerGet">
+            <summary>Sets the shim of PopupNotifier.get_GradientPower()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.GradientPowerSetInt32">
+            <summary>Sets the shim of PopupNotifier.set_GradientPower(Int32 value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.HeaderColorGet">
+            <summary>Sets the shim of PopupNotifier.get_HeaderColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.HeaderColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_HeaderColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.HeaderHeightGet">
+            <summary>Sets the shim of PopupNotifier.get_HeaderHeight()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.HeaderHeightSetInt32">
+            <summary>Sets the shim of PopupNotifier.set_HeaderHeight(Int32 value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.Hide">
+            <summary>Sets the shim of PopupNotifier.Hide()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ImageGet">
+            <summary>Sets the shim of PopupNotifier.get_Image()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ImagePaddingGet">
+            <summary>Sets the shim of PopupNotifier.get_ImagePadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ImagePaddingSetPadding">
+            <summary>Sets the shim of PopupNotifier.set_ImagePadding(Padding value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ImageSetImage">
+            <summary>Sets the shim of PopupNotifier.set_Image(Image value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ImageSizeGet">
+            <summary>Sets the shim of PopupNotifier.get_ImageSize()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ImageSizeSetSize">
+            <summary>Sets the shim of PopupNotifier.set_ImageSize(Size value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.IsRightToLeftGet">
+            <summary>Sets the shim of PopupNotifier.get_IsRightToLeft()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.IsRightToLeftSetBoolean">
+            <summary>Sets the shim of PopupNotifier.set_IsRightToLeft(Boolean value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.OptionsMenuGet">
+            <summary>Sets the shim of PopupNotifier.get_OptionsMenu()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.OptionsMenuSetContextMenuStrip">
+            <summary>Sets the shim of PopupNotifier.set_OptionsMenu(ContextMenuStrip value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.Popup">
+            <summary>Sets the shim of PopupNotifier.Popup()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ResetContentPadding">
+            <summary>Sets the shim of PopupNotifier.ResetContentPadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ResetImagePadding">
+            <summary>Sets the shim of PopupNotifier.ResetImagePadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ResetImageSize">
+            <summary>Sets the shim of PopupNotifier.ResetImageSize()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ResetTitlePadding">
+            <summary>Sets the shim of PopupNotifier.ResetTitlePadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ScrollGet">
+            <summary>Sets the shim of PopupNotifier.get_Scroll()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ScrollSetBoolean">
+            <summary>Sets the shim of PopupNotifier.set_Scroll(Boolean value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ShouldSerializeContentPadding">
+            <summary>Sets the shim of PopupNotifier.ShouldSerializeContentPadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ShouldSerializeImagePadding">
+            <summary>Sets the shim of PopupNotifier.ShouldSerializeImagePadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ShouldSerializeImageSize">
+            <summary>Sets the shim of PopupNotifier.ShouldSerializeImageSize()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ShouldSerializeTitlePadding">
+            <summary>Sets the shim of PopupNotifier.ShouldSerializeTitlePadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ShowCloseButtonGet">
+            <summary>Sets the shim of PopupNotifier.get_ShowCloseButton()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ShowCloseButtonSetBoolean">
+            <summary>Sets the shim of PopupNotifier.set_ShowCloseButton(Boolean value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ShowGripGet">
+            <summary>Sets the shim of PopupNotifier.get_ShowGrip()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ShowGripSetBoolean">
+            <summary>Sets the shim of PopupNotifier.set_ShowGrip(Boolean value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ShowOptionsButtonGet">
+            <summary>Sets the shim of PopupNotifier.get_ShowOptionsButton()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.ShowOptionsButtonSetBoolean">
+            <summary>Sets the shim of PopupNotifier.set_ShowOptionsButton(Boolean value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.SizeGet">
+            <summary>Sets the shim of PopupNotifier.get_Size()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.SizeSetSize">
+            <summary>Sets the shim of PopupNotifier.set_Size(Size value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.TitleColorGet">
+            <summary>Sets the shim of PopupNotifier.get_TitleColor()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.TitleColorSetColor">
+            <summary>Sets the shim of PopupNotifier.set_TitleColor(Color value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.TitleFontGet">
+            <summary>Sets the shim of PopupNotifier.get_TitleFont()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.TitleFontSetFont">
+            <summary>Sets the shim of PopupNotifier.set_TitleFont(Font value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.TitlePaddingGet">
+            <summary>Sets the shim of PopupNotifier.get_TitlePadding()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.TitlePaddingSetPadding">
+            <summary>Sets the shim of PopupNotifier.set_TitlePadding(Padding value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.TitleTextGet">
+            <summary>Sets the shim of PopupNotifier.get_TitleText()</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.TitleTextSetString">
+            <summary>Sets the shim of PopupNotifier.set_TitleText(String value)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.frmPopup_CloseClickObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.frmPopup_CloseClick(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.frmPopup_ContextMenuClosedObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.frmPopup_ContextMenuClosed(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.frmPopup_ContextMenuOpenedObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.frmPopup_ContextMenuOpened(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.frmPopup_LinkClickObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.frmPopup_LinkClick(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.frmPopup_MouseEnterObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.frmPopup_MouseEnter(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.frmPopup_MouseLeaveObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.frmPopup_MouseLeave(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.frmPopup_VisibleChangedObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.frmPopup_VisibleChanged(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.tmAnimation_TickObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.tmAnimation_Tick(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.ShimPopupNotifier.tmWait_TickObjectEventArgs">
+            <summary>Sets the shim of PopupNotifier.tmWait_Tick(Object sender, EventArgs e)</summary>
+        </member>
+        <member name="T:Tulpep.NotificationWindow.Fakes.StubPopupNotifier">
+            <summary>Stub type of Tulpep.NotificationWindow.PopupNotifier</summary>
+        </member>
+        <member name="M:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.AttachBackingFieldToSite">
+            <summary>Attaches delegates to emulate StubPopupNotifier.Site as a property with a backing field.</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.CanRaiseEvents">
+            <summary>Sets the stub of Component.get_CanRaiseEvents()</summary>
+        </member>
+        <member name="F:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.CanRaiseEventsGet">
+            <summary>Sets the stub of Component.get_CanRaiseEvents()</summary>
+        </member>
+        <member name="M:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.Dispose(System.Boolean)">
+            <summary>Sets the stub of PopupNotifier.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="F:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.DisposeBoolean">
+            <summary>Sets the stub of PopupNotifier.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="M:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.GetService(System.Type)">
+            <summary>Sets the stub of Component.GetService(Type service)</summary>
+        </member>
+        <member name="F:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.GetServiceType">
+            <summary>Sets the stub of Component.GetService(Type service)</summary>
+        </member>
+        <member name="M:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.InitializeStub">
+            <summary>Initializes a new instance of type StubPopupNotifier</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="P:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.Site">
+            <summary>Sets the stub of Component.get_Site()</summary>
+        </member>
+        <member name="F:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.SiteGet">
+            <summary>Sets the stub of Component.get_Site()</summary>
+        </member>
+        <member name="F:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.SiteSetISite">
+            <summary>Sets the stub of Component.set_Site(ISite value)</summary>
+        </member>
+        <member name="M:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.ToString">
+            <summary>Sets the stub of Component.ToString()</summary>
+        </member>
+        <member name="F:Tulpep.NotificationWindow.Fakes.StubPopupNotifier.ToString01">
+            <summary>Sets the stub of Component.ToString()</summary>
+        </member>
+    </members>
+</doc>
